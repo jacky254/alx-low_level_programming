@@ -8,7 +8,7 @@
 int _isupper(int c)
 {
 	int uppLetters;
-
+	
 	uppLetters = 'A';
 	for (uppLetters = 'A'; uppLetters <= 'Z'; uppLetters++)
 	{
